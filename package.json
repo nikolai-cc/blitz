@@ -15,10 +15,10 @@
     "@sveltejs/kit": "latest",
     "prettier": "latest",
     "prettier-plugin-svelte": "latest",
-    "svelte": "^4.0.0-next.2",
+    "svelte": "next",
     "svelte-check": "latest",
     "typescript": "latest",
-    "vite": "^4.3.9"
+    "vite": "latest"
   },
   "type": "module"
 }
