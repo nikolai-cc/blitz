@@ -6,6 +6,7 @@
   <ul>
     <li><a href="/">home</a></li>
     <li><a href="/page">page</a></li>
+    <li><a href="/you">you</a></li>
   </ul>
 </nav>
 
