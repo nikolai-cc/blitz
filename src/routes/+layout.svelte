@@ -1,5 +1,5 @@
 <header>
-  it's the blitz ⚡️
+  it's the blitz ⚡️ and it's pod yes
 </header>
 
 <nav>
